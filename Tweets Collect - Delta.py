@@ -38,10 +38,10 @@ ids = ['%40delta',
        '%23deltaair'] # enter your search terms
 
 from twython import Twython
-t = Twython(app_key='xkg5CsuRRCQWGKPLlOLdFlCBE',       #REPLACE 'APP_KEY' WITH YOUR APP KEY, ETC., IN THE NEXT 4 LINES
-    app_secret='ycOC4RigGXtwFafXGT4G9OAvlXrXulDrFdMArUkctyMszhsce7',
-    oauth_token='367595456-t74sHhR6BINEiS1TaVgGJzEzN7RGYWsM4TN9qRbP',
-    oauth_token_secret='jpoJe543C6de7OgSdZdiaDR6tKdwOGmtysYE6jfp0EJj1')
+t = Twython(app_key='abcdefghijklmnopqrstuvwxy',
+    app_secret='abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()_+{}',
+    oauth_token='abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()_+{}',
+    oauth_token_secret='abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()_+{}')
     
 Base = declarative_base()
 

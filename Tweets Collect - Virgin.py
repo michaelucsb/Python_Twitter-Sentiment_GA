@@ -37,11 +37,11 @@ ids = ['%40virginamerica',
        '%23virginamerica'] # enter your search terms
 
 from twython import Twython
-t = Twython(app_key='BAY34QUkq1yvHqI9tBjShzs1f',       #REPLACE 'APP_KEY' WITH YOUR APP KEY, ETC., IN THE NEXT 4 LINES
-    app_secret='CNEOo5IEAxd5V0x1jUKZMJg1IXHUiaCiykOXsj7WzF75jOgLS1',
-    oauth_token='367595456-xkQFIfwJ6Urx3mdO7sOA1xRbmS5PIi1Yh2ItVdKH',
-    oauth_token_secret='nzVFeMuPIXD5tOqT5dVTmFBglVexGCcaVhwWk3VcWE6RR')
-    
+t = Twython(app_key='abcdefghijklmnopqrstuvwxy',
+    app_secret='abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()_+{}',
+    oauth_token='abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()_+{}',
+    oauth_token_secret='abcdefghijklmnopqrstuvwxyz1234567890!@#$%^&*()_+{}')
+
 Base = declarative_base()
 
 
