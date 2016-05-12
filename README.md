@@ -1,10 +1,10 @@
-# Sentiment Prediction and Analysis of Major Airline Tweets
+# SENTIMENT PREDICTION & ANALYSIS OF AIRLINE TWEETS
 ![alt tag](Presentation_Cover.png)
 ## FINAL PRESENTATION
-See my [FINAL PRESENTATION DECK](GA_Capstone_Presentation.pdf).
+See my [final presentation deck](GA_Capstone_Presentation.pdf) in PDF.
 
 ## PYTHON CODES
-Check out the entired [PYTHON CODES](GA_Capstone_Codes.py) for this project.
+Check out the entired [python code](GA_Capstone_Codes.py) for this project.
 
 ## PROJECT SUMMARY
 The project aims to use rule-based classification and machine learning algorithms to predict content sentiments of Twitter feeds that mentioned four major airlines: American Airline, United, Delta, and Southwest.
