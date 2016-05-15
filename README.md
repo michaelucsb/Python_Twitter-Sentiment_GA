@@ -1,5 +1,5 @@
 # SENTIMENT ANALYSIS OF AIRLINE TWEETS
-A General Assembly Capstone Project - using machine learning techniques to conduct sentiment prediction and analysis of major airline twitter feeds.
+A General Assembly Capstone Project - using machine learning techniques to conduct sentiment prediction and analysis of major airline twitter feeds.  The programming language used was Python.
 ![alt tag](Presentation_Cover.png)
 ## FINAL PRESENTATION
 See my [final presentation deck](GA_Capstone_Presentation.pdf) in PDF.
